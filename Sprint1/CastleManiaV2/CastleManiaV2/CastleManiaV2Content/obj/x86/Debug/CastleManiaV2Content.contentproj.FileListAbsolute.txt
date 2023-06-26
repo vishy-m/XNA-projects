@@ -1,0 +1,4 @@
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2Content\obj\x86\Debug\CastleManiaV2Content.contentproj.CoreCompileInputs.cache
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2Content\obj\x86\Debug\CastleManiaV2Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2Content\obj\x86\Debug\CastleManiaV2Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2Content\obj\x86\Debug\CastleManiaV2Content.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+G:\My Drive\VGP1\Video Game program1\Sprint1\RomanPig\RomanPig\RomanPigContent\obj\x86\Debug\RomanPigContent.contentproj.AssemblyReference.cache
+G:\My Drive\VGP1\Video Game program1\Sprint1\RomanPig\RomanPig\RomanPigContent\obj\x86\Debug\RomanPigContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\RomanPig\RomanPig\RomanPigContent\obj\x86\Debug\RomanPigContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\RomanPig\RomanPig\RomanPigContent\obj\x86\Debug\RomanPigContent.contentproj.CoreCompileInputs.cache

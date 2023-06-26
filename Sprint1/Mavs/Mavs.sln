@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mavs", "Mavs\Mavs\Mavs.csproj", "{AB760BBD-CF2C-4550-AB53-E321B73D6A49}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MavsContent", "Mavs\MavsContent\MavsContent.contentproj", "{E11ACC0E-A29A-497E-8DB7-283F881013E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB760BBD-CF2C-4550-AB53-E321B73D6A49}.Debug|x86.ActiveCfg = Debug|x86
+		{AB760BBD-CF2C-4550-AB53-E321B73D6A49}.Debug|x86.Build.0 = Debug|x86
+		{AB760BBD-CF2C-4550-AB53-E321B73D6A49}.Release|x86.ActiveCfg = Release|x86
+		{AB760BBD-CF2C-4550-AB53-E321B73D6A49}.Release|x86.Build.0 = Release|x86
+		{E11ACC0E-A29A-497E-8DB7-283F881013E1}.Debug|x86.ActiveCfg = Debug|x86
+		{E11ACC0E-A29A-497E-8DB7-283F881013E1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74BA8EFD-ABEE-4AB7-AF54-D6A2D578CAA5}
+	EndGlobalSection
+EndGlobal

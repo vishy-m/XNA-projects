@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Basketball.png</Source>
+      <Name>Basketball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\Basketball.xnb</Output>
+      <Time>2022-08-30T15:59:15.4019131-05:00</Time>
+    </Item>
+    <Item>
+      <Source>basketballCourt.jpg</Source>
+      <Name>basketballCourt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\basketballCourt.xnb</Output>
+      <Time>2022-08-30T15:59:15.4927655-05:00</Time>
+    </Item>
+    <Item>
+      <Source>net.PNG</Source>
+      <Name>net</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\net.xnb</Output>
+      <Time>2022-08-30T15:59:15.3817978-05:00</Time>
+    </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2022-08-30T15:59:15.442259-05:00</Time>
+    </Item>
+    <Item>
+      <Source>net2.png</Source>
+      <Name>net2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\net2.xnb</Output>
+      <Time>2022-08-30T15:59:15.356012-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2022-08-30T15:59:15.4220932-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hoop.png</Source>
+      <Name>hoop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\hoop.xnb</Output>
+      <Time>2022-09-01T15:44:20.4385686-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hoops.png</Source>
+      <Name>hoops</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\hoops.xnb</Output>
+      <Time>2022-09-01T15:53:51.9344376-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E11ACC0E-A29A-497E-8DB7-283F881013E1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\MavsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\242480\Desktop\Video Game program1\Sprint1\Mavs\Mavs\Mavs\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2022-08-09T14:38:05.9850156-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

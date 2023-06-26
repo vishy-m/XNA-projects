@@ -1,0 +1,3 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Backdrop\Backdrop\BackdropContent\obj\x86\Debug\BackdropContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Backdrop\Backdrop\BackdropContent\obj\x86\Debug\BackdropContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Backdrop\Backdrop\BackdropContent\obj\x86\Debug\BackdropContent.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,38 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Content\waikiki-beach-diamond-head-oahu-by-d-howard-hitchcock-hawaii-1928-5352db-1024.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\PictureWindow.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\PictureWindow.pdb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.csproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.csproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.csproj.CopyComplete
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.pdb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Content\waikiki-beach-diamond-head-oahu-by-d-howard-hitchcock-hawaii-1928-5352db-1024.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\PictureWindow.exe
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\PictureWindow.pdb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.csproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.csproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.csproj.CopyComplete
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.exe
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\PictureWindow\PictureWindow\PictureWindow\obj\x86\Debug\PictureWindow.pdb

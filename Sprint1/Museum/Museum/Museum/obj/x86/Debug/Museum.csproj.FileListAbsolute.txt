@@ -1,0 +1,48 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\herobrine.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\HerobrineArms.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\IronGolem.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\IronGolemArms.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\museum.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\painting.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Museum.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Museum.pdb
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.csproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.csproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.csproj.CopyComplete
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.pdb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\herobrine.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\HerobrineArms.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\museum.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\painting.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\IronGolemArms.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Content\IronGolem.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Museum.exe
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Museum.pdb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.csproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.csproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.csproj.CopyComplete
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.exe
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\Museum\obj\x86\Debug\Museum.pdb

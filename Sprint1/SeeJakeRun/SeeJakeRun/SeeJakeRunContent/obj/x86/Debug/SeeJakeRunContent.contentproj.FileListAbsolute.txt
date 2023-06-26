@@ -1,0 +1,4 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint1\SeeJakeRun\SeeJakeRun\SeeJakeRunContent\obj\x86\Debug\SeeJakeRunContent.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint1\SeeJakeRun\SeeJakeRun\SeeJakeRunContent\obj\x86\Debug\SeeJakeRunContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\SeeJakeRun\SeeJakeRun\SeeJakeRunContent\obj\x86\Debug\SeeJakeRunContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\SeeJakeRun\SeeJakeRun\SeeJakeRunContent\obj\x86\Debug\SeeJakeRunContent.contentproj.CoreCompileInputs.cache

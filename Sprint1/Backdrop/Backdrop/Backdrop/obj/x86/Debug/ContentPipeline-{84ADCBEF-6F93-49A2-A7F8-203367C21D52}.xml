@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{84ADCBEF-6F93-49A2-A7F8-203367C21D52}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Backdrop\Backdrop\BackdropContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Backdrop\Backdrop\Backdrop\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Backdrop\Backdrop\Backdrop\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Backdrop\Backdrop\Backdrop\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2022-10-04T22:01:39.5928886-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

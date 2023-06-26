@@ -1,0 +1,3 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint1\SpeedDemon\SpeedDemon\SpeedDemonContent\obj\x86\Debug\SpeedDemonContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\SpeedDemon\SpeedDemon\SpeedDemonContent\obj\x86\Debug\SpeedDemonContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\SpeedDemon\SpeedDemon\SpeedDemonContent\obj\x86\Debug\SpeedDemonContent.contentproj.CoreCompileInputs.cache

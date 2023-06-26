@@ -1,0 +1,4 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint1\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\Museum\Museum\MuseumContent\obj\x86\Debug\MuseumContent.contentproj.CoreCompileInputs.cache

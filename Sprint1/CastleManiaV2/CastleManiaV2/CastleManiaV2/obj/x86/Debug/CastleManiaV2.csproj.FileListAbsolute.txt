@@ -1,0 +1,62 @@
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\GhostKnight.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\CastleManiaV2.exe
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\CastleManiaV2.pdb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.csproj.AssemblyReference.cache
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.csproj.CoreCompileInputs.cache
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.csproj.CopyComplete
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.exe
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.pdb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\King.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Knight.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Knight2.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\skullKing.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\DarkThroneRoom.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\plains.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\throneRoom.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\GKnight2.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Sword.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\SpriteFont2.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\kSword.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\King.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Knight.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Knight2.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\skullKing.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\GhostKnight.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\DarkThroneRoom.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\plains.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\throneRoom.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\GKnight2.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Sword.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\kSword.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\CastleManiaV2.exe
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\CastleManiaV2.pdb
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.csproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.csproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.csproj.CopyComplete
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.exe
+C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\CastleManiaV2.pdb

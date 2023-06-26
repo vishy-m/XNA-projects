@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>King.png</Source>
+      <Name>King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\King.xnb</Output>
+      <Time>2023-06-26T13:14:55.4400498-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight.png</Source>
+      <Name>Knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Knight.xnb</Output>
+      <Time>2023-06-26T13:14:55.4243402-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Knight2.png</Source>
+      <Name>Knight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Knight2.xnb</Output>
+      <Time>2023-06-26T13:14:55.4667444-05:00</Time>
+    </Item>
+    <Item>
+      <Source>skullKing.png</Source>
+      <Name>skullKing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\skullKing.xnb</Output>
+      <Time>2023-06-26T13:14:55.3962456-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GhostKnight.png</Source>
+      <Name>GhostKnight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\GhostKnight.xnb</Output>
+      <Time>2023-06-26T13:14:55.4506794-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DarkThroneRoom.jpg</Source>
+      <Name>DarkThroneRoom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\DarkThroneRoom.xnb</Output>
+      <Time>2023-06-26T13:14:55.40876-05:00</Time>
+    </Item>
+    <Item>
+      <Source>plains.png</Source>
+      <Name>plains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\plains.xnb</Output>
+      <Time>2023-06-26T13:14:55.3590083-05:00</Time>
+    </Item>
+    <Item>
+      <Source>throneRoom.jpg</Source>
+      <Name>throneRoom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\throneRoom.xnb</Output>
+      <Time>2023-06-26T13:14:55.3363732-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GKnight2.png</Source>
+      <Name>GKnight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\GKnight2.xnb</Output>
+      <Time>2023-06-26T13:14:55.3474944-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword.png</Source>
+      <Name>Sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\Sword.xnb</Output>
+      <Time>2023-06-26T13:14:55.3821898-05:00</Time>
+    </Item>
+    <Item>
+      <Source>kSword.png</Source>
+      <Name>kSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\kSword.xnb</Output>
+      <Time>2023-06-26T13:14:55.3133242-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2023-06-26T13:14:55.3685732-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2023-06-26T13:14:55.3233189-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EB07217B-023F-496A-BE17-F2940492E458}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vishy\OneDrive\Desktop\VGP projects\Sprint1\CastleManiaV2\CastleManiaV2\CastleManiaV2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2022-10-04T22:01:39.5928886-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

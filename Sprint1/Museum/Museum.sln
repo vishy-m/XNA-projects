@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museum", "Museum\Museum\Museum.csproj", "{ED933DBC-B306-4193-B5D8-F5458916F598}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MuseumContent", "Museum\MuseumContent\MuseumContent.contentproj", "{764DC1F5-C915-4AA5-8DD0-68066E21E8D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED933DBC-B306-4193-B5D8-F5458916F598}.Debug|x86.ActiveCfg = Debug|x86
+		{ED933DBC-B306-4193-B5D8-F5458916F598}.Debug|x86.Build.0 = Debug|x86
+		{ED933DBC-B306-4193-B5D8-F5458916F598}.Release|x86.ActiveCfg = Release|x86
+		{ED933DBC-B306-4193-B5D8-F5458916F598}.Release|x86.Build.0 = Release|x86
+		{764DC1F5-C915-4AA5-8DD0-68066E21E8D5}.Debug|x86.ActiveCfg = Debug|x86
+		{764DC1F5-C915-4AA5-8DD0-68066E21E8D5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D337D6E-DD6A-46AA-83A6-86333FA379FF}
+	EndGlobalSection
+EndGlobal
