@@ -1,0 +1,62 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Avatar.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Avatar.pdb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.CopyComplete
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.pdb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i0.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i1.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i2.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i3.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i4.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i5.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i6.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i7.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i8.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i9.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i10.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i11.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\white.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i0.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i1.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i2.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i3.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i4.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i5.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i6.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i7.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i8.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i9.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i10.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\i11.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Content\white.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Avatar.exe
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Avatar.pdb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.csproj.CopyComplete
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.exe
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Avatar\Avatar\Avatar\obj\x86\Debug\Avatar.pdb

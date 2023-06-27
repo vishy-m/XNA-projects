@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huff_n_Puff", "Huff n Puff\Huff_n_Puff\Huff_n_Puff.csproj", "{FE52FF4B-FADF-41AC-A8AC-C851CD522004}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Huff_n_PuffContent", "Huff n Puff\Huff_n_PuffContent\Huff_n_PuffContent.contentproj", "{6CE522B7-6A07-423B-9AEE-498B4A7C815F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE52FF4B-FADF-41AC-A8AC-C851CD522004}.Debug|x86.ActiveCfg = Debug|x86
+		{FE52FF4B-FADF-41AC-A8AC-C851CD522004}.Debug|x86.Build.0 = Debug|x86
+		{FE52FF4B-FADF-41AC-A8AC-C851CD522004}.Release|x86.ActiveCfg = Release|x86
+		{FE52FF4B-FADF-41AC-A8AC-C851CD522004}.Release|x86.Build.0 = Release|x86
+		{6CE522B7-6A07-423B-9AEE-498B4A7C815F}.Debug|x86.ActiveCfg = Debug|x86
+		{6CE522B7-6A07-423B-9AEE-498B4A7C815F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770C4D3D-D873-4AAA-BB16-275CDCEE0608}
+	EndGlobalSection
+EndGlobal

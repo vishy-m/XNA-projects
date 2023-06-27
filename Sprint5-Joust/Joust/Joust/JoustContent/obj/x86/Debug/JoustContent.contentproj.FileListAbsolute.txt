@@ -1,0 +1,12 @@
+C:\Users\261785\Desktop\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.AssemblyReference.cache
+C:\Users\261785\Desktop\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.CoreCompileInputs.cache
+C:\Users\aprab\Desktop\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.AssemblyReference.cache
+C:\Users\aprab\Desktop\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\JoustRemade\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\JoustRemade\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Joust-Finished\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Joust-Finished\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Joust-Finished\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Joust-Finished\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\Githubprojects\XNA-projects\Sprint5-Joust\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\Githubprojects\XNA-projects\Sprint5-Joust\Joust\Joust\JoustContent\obj\x86\Debug\JoustContent.contentproj.CoreCompileInputs.cache

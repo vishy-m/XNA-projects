@@ -1,0 +1,38 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\How_Much.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\How_Much.pdb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.csproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.csproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.csproj.CopyComplete
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.pdb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\How_Much.exe
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\How_Much.pdb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.csproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.csproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.csproj.CopyComplete
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.exe
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\How Much\How Much\How_Much\obj\x86\Debug\How_Much.pdb

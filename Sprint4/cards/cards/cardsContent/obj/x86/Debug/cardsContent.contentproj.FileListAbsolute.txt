@@ -1,0 +1,6 @@
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\cards\cards\cardsContent\obj\x86\Debug\cardsContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\cards\cards\cardsContent\obj\x86\Debug\cardsContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\done\cards\cards\cardsContent\obj\x86\Debug\cardsContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\done\cards\cards\cardsContent\obj\x86\Debug\cardsContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\cards\cards\cardsContent\obj\x86\Debug\cardsContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\cards\cards\cardsContent\obj\x86\Debug\cardsContent.contentproj.CoreCompileInputs.cache

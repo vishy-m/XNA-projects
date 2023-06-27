@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BorgCube.png</Source>
+      <Name>BorgCube</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\BorgCube.xnb</Output>
+      <Time>2022-10-02T10:20:22.4252499-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Photon Torpedo.png</Source>
+      <Name>Photon Torpedo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\Photon Torpedo.xnb</Output>
+      <Time>2022-10-02T10:20:22.4372546-05:00</Time>
+    </Item>
+    <Item>
+      <Source>StarBase.png</Source>
+      <Name>StarBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\StarBase.xnb</Output>
+      <Time>2022-10-02T10:20:22.4412495-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Torpedo Mark XXV.png</Source>
+      <Name>Torpedo Mark XXV</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\Torpedo Mark XXV.xnb</Output>
+      <Time>2022-10-02T10:20:22.4422499-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.jpg</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2022-10-02T10:20:22.4448847-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2022-10-02T17:08:05.1678939-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2022-10-02T10:20:22.4392494-05:00</Time>
+    </Item>
+    <Item>
+      <Source>base.wav</Source>
+      <Name>base</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\base.xnb</Output>
+      <Time>2022-10-03T13:48:23.1717766-05:00</Time>
+    </Item>
+    <Item>
+      <Source>borgShot.wav</Source>
+      <Name>borgShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\borgShot.xnb</Output>
+      <Time>2022-10-03T13:48:23.1717766-05:00</Time>
+    </Item>
+    <Item>
+      <Source>torpedo.wav</Source>
+      <Name>torpedo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\torpedo.xnb</Output>
+      <Time>2022-10-03T13:48:23.1717766-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{47F8233E-4D18-4768-8490-A144F3092724}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2022-10-04T22:01:39.5928886-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

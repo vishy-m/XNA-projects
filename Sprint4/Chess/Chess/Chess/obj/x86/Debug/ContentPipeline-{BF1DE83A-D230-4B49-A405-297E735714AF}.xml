@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Assets\2Black Bishop.png</Source>
+      <Name>Assets\2Black Bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\2Black Bishop.xnb</Output>
+      <Time>2022-10-28T08:47:09.1395489-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\0Black Castle.png</Source>
+      <Name>Assets\0Black Castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\0Black Castle.xnb</Output>
+      <Time>2022-10-28T08:47:09.1694007-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\4Black King.png</Source>
+      <Name>Assets\4Black King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\4Black King.xnb</Output>
+      <Time>2022-10-28T08:47:09.0403552-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\1Black Knight.png</Source>
+      <Name>Assets\1Black Knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\1Black Knight.xnb</Output>
+      <Time>2022-10-28T08:47:09.0593496-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\8Black Pawn.png</Source>
+      <Name>Assets\8Black Pawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\8Black Pawn.xnb</Output>
+      <Time>2022-10-28T08:47:09.0845517-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\3Black Queen.png</Source>
+      <Name>Assets\3Black Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\3Black Queen.xnb</Output>
+      <Time>2022-10-28T08:47:09.1082877-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\Board.png</Source>
+      <Name>Assets\Board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\Board.xnb</Output>
+      <Time>2022-10-28T08:47:09.1228593-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\92White Bishop.png</Source>
+      <Name>Assets\92White Bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\92White Bishop.xnb</Output>
+      <Time>2022-10-28T08:47:09.0184669-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\97White Castle.png</Source>
+      <Name>Assets\97White Castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\97White Castle.xnb</Output>
+      <Time>2022-10-28T08:47:09.0072113-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\93White King.png</Source>
+      <Name>Assets\93White King</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\93White King.xnb</Output>
+      <Time>2022-10-28T08:47:08.9857699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\91White Knight.png</Source>
+      <Name>Assets\91White Knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\91White Knight.xnb</Output>
+      <Time>2022-10-28T08:47:08.9682425-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\98White Pawn.png</Source>
+      <Name>Assets\98White Pawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\98White Pawn.xnb</Output>
+      <Time>2022-10-28T08:47:08.9595347-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\94White Queen.png</Source>
+      <Name>Assets\94White Queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\94White Queen.xnb</Output>
+      <Time>2022-10-28T08:47:08.9502955-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\5Black Bishop2.png</Source>
+      <Name>Assets\5Black Bishop2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\5Black Bishop2.xnb</Output>
+      <Time>2022-10-28T08:52:28.7933103-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\6Black Knight2.png</Source>
+      <Name>Assets\6Black Knight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\6Black Knight2.xnb</Output>
+      <Time>2022-10-28T08:52:41.3266071-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\7Black Castle2.png</Source>
+      <Name>Assets\7Black Castle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\7Black Castle2.xnb</Output>
+      <Time>2022-10-28T08:52:45.3199139-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\95White Bishop - Copy.png</Source>
+      <Name>Assets\95White Bishop - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\95White Bishop - Copy.xnb</Output>
+      <Time>2022-10-28T08:56:39.3326011-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\96White Knight - Copy.png</Source>
+      <Name>Assets\96White Knight - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\96White Knight - Copy.xnb</Output>
+      <Time>2022-10-28T08:57:01.0552081-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Assets\90White Castle - Copy.png</Source>
+      <Name>Assets\90White Castle - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\Assets\90White Castle - Copy.xnb</Output>
+      <Time>2022-10-28T08:57:13.3062876-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{BF1DE83A-D230-4B49-A405-297E735714AF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\ChessContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\Chess\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2022-10-04T22:01:39.5928886-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

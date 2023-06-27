@@ -1,0 +1,14 @@
+bob L frame 0 run = 0 0 24 34
+bob L frame 1 run = 25 0 24 34
+bob L frame 2 run = 50 0 24 34
+bob L frame 3 run = 75 0 24 34
+bob L frame 4 jump = 100 0 24 34
+bob R frame 0 run = 0 35 24 34
+bob R frame 1 run = 25 35 24 34
+bob R frame 2 run = 50 35 24 34
+bob R frame 3 run = 75 35 24 34
+bob R frame 4 jump = 100 35 24 34
+feather 0 = 0 70 24 24
+feather 1 = 25 70 24 24
+feather 2 = 50 70 24 24
+feather 3 = 75 70 24 24

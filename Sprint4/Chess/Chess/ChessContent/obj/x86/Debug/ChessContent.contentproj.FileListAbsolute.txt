@@ -1,0 +1,6 @@
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\Chess\Chess\ChessContent\obj\x86\Debug\ChessContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\Chess\Chess\ChessContent\obj\x86\Debug\ChessContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\done\Chess\Chess\ChessContent\obj\x86\Debug\ChessContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\Sprint4\done\Chess\Chess\ChessContent\obj\x86\Debug\ChessContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\ChessContent\obj\x86\Debug\ChessContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\Sprint4\done\Chess\Chess\ChessContent\obj\x86\Debug\ChessContent.contentproj.CoreCompileInputs.cache

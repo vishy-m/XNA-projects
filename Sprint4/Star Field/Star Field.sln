@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star_Field", "Star Field\Star_Field\Star_Field.csproj", "{A03D0D94-F855-4DB1-B75D-5F63396A31AF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Star_FieldContent", "Star Field\Star_FieldContent\Star_FieldContent.contentproj", "{0420E8B0-EFD4-47CE-9145-B05F6B20F3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03D0D94-F855-4DB1-B75D-5F63396A31AF}.Debug|x86.ActiveCfg = Debug|x86
+		{A03D0D94-F855-4DB1-B75D-5F63396A31AF}.Debug|x86.Build.0 = Debug|x86
+		{A03D0D94-F855-4DB1-B75D-5F63396A31AF}.Release|x86.ActiveCfg = Release|x86
+		{A03D0D94-F855-4DB1-B75D-5F63396A31AF}.Release|x86.Build.0 = Release|x86
+		{0420E8B0-EFD4-47CE-9145-B05F6B20F3AB}.Debug|x86.ActiveCfg = Debug|x86
+		{0420E8B0-EFD4-47CE-9145-B05F6B20F3AB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3541F0D-A7CA-4102-A1F8-243D361A561E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+Content\white.xnb
+Content\Map.xnb

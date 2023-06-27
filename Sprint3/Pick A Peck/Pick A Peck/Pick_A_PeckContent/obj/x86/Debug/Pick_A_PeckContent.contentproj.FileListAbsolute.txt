@@ -1,0 +1,4 @@
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Pick A Peck\Pick A Peck\Pick_A_PeckContent\obj\x86\Debug\Pick_A_PeckContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Pick A Peck\Pick A Peck\Pick_A_PeckContent\obj\x86\Debug\Pick_A_PeckContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Pick A Peck\Pick A Peck\Pick_A_PeckContent\obj\x86\Debug\Pick_A_PeckContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Pick A Peck\Pick A Peck\Pick_A_PeckContent\obj\x86\Debug\Pick_A_PeckContent.contentproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pick_A_Peck", "Pick A Peck\Pick_A_Peck\Pick_A_Peck.csproj", "{045B5AA0-59B2-4081-B2E0-AF634E12A846}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Pick_A_PeckContent", "Pick A Peck\Pick_A_PeckContent\Pick_A_PeckContent.contentproj", "{945FADCA-C863-41AC-8C0D-CF59CB4DC6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{045B5AA0-59B2-4081-B2E0-AF634E12A846}.Debug|x86.ActiveCfg = Debug|x86
+		{045B5AA0-59B2-4081-B2E0-AF634E12A846}.Debug|x86.Build.0 = Debug|x86
+		{045B5AA0-59B2-4081-B2E0-AF634E12A846}.Release|x86.ActiveCfg = Release|x86
+		{045B5AA0-59B2-4081-B2E0-AF634E12A846}.Release|x86.Build.0 = Release|x86
+		{945FADCA-C863-41AC-8C0D-CF59CB4DC6E1}.Debug|x86.ActiveCfg = Debug|x86
+		{945FADCA-C863-41AC-8C0D-CF59CB4DC6E1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {449B6FF0-0E51-4316-8B06-A2EE91825C7A}
+	EndGlobalSection
+EndGlobal

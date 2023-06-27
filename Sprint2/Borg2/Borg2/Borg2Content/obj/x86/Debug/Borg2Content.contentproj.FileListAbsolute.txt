@@ -1,0 +1,4 @@
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2Content\obj\x86\Debug\Borg2Content.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2Content\obj\x86\Debug\Borg2Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2Content\obj\x86\Debug\Borg2Content.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Borg2\Borg2\Borg2Content\obj\x86\Debug\Borg2Content.contentproj.CoreCompileInputs.cache

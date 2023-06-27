@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "war", "war\war\war.csproj", "{3E96AD3F-FC81-421D-BFDD-6E581C0C63D9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "warContent", "war\warContent\warContent.contentproj", "{5079DFFA-5802-4C5F-B9C3-8899CD7C404B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E96AD3F-FC81-421D-BFDD-6E581C0C63D9}.Debug|x86.ActiveCfg = Debug|x86
+		{3E96AD3F-FC81-421D-BFDD-6E581C0C63D9}.Debug|x86.Build.0 = Debug|x86
+		{3E96AD3F-FC81-421D-BFDD-6E581C0C63D9}.Release|x86.ActiveCfg = Release|x86
+		{3E96AD3F-FC81-421D-BFDD-6E581C0C63D9}.Release|x86.Build.0 = Release|x86
+		{5079DFFA-5802-4C5F-B9C3-8899CD7C404B}.Debug|x86.ActiveCfg = Debug|x86
+		{5079DFFA-5802-4C5F-B9C3-8899CD7C404B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09026F52-B56C-4AD6-B95C-4932F848D362}
+	EndGlobalSection
+EndGlobal

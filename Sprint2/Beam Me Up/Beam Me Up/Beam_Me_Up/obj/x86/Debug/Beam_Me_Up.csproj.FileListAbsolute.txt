@@ -1,0 +1,78 @@
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o1.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o5.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o4.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o3.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o2.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\sound.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\star.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Beam_Me_Up.exe
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Beam_Me_Up.pdb
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.dll
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.xml
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.AssemblyReference.cache
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.CoreCompileInputs.cache
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.CopyComplete
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.exe
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.pdb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o1.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o5.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o4.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o3.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o2.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\sound.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\star.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Beam_Me_Up.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Beam_Me_Up.pdb
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.CopyComplete
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.exe
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.pdb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o1.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o5.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o4.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o3.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\o2.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\sound.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\star.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Beam_Me_Up.exe
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Beam_Me_Up.pdb
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.csproj.CopyComplete
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.exe
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_Up\obj\x86\Debug\Beam_Me_Up.pdb

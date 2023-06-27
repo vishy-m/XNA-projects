@@ -1,0 +1,6 @@
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_UpContent\obj\x86\Debug\Beam_Me_UpContent.contentproj.AssemblyReference.cache
+G:\My Drive\VGP1\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_UpContent\obj\x86\Debug\Beam_Me_UpContent.contentproj.CoreCompileInputs.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_UpContent\obj\x86\Debug\Beam_Me_UpContent.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint2\Beam Me Up\Beam Me Up\Beam_Me_UpContent\obj\x86\Debug\Beam_Me_UpContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_UpContent\obj\x86\Debug\Beam_Me_UpContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint2\Beam Me Up\Beam Me Up\Beam_Me_UpContent\obj\x86\Debug\Beam_Me_UpContent.contentproj.CoreCompileInputs.cache

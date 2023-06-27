@@ -1,0 +1,4 @@
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Sidekick\Sidekick\SidekickContent\obj\x86\Debug\SidekickContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Sidekick\Sidekick\SidekickContent\obj\x86\Debug\SidekickContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Sidekick\Sidekick\SidekickContent\obj\x86\Debug\SidekickContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Sidekick\Sidekick\SidekickContent\obj\x86\Debug\SidekickContent.contentproj.CoreCompileInputs.cache

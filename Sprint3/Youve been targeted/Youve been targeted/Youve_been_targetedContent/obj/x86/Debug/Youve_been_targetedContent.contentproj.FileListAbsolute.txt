@@ -1,0 +1,8 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint3\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint3\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\AtSchool\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\AtSchool\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Sprint3Labs\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Sprint3Labs\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Youve been targeted\Youve been targeted\Youve_been_targetedContent\obj\x86\Debug\Youve_been_targetedContent.contentproj.CoreCompileInputs.cache

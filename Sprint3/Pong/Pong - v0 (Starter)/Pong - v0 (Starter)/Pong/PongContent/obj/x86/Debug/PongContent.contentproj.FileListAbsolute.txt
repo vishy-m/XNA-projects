@@ -1,0 +1,8 @@
+C:\Users\pageg\Desktop\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+\\FISD-FS3\Admin2\CTE\Users\bakerb\Documents\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Pong\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Pong\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Sprint3Labs\Pong\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Sprint3Labs\Pong\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Pong\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Pong\Pong - v0 (Starter)\Pong - v0 (Starter)\Pong\PongContent\obj\x86\Debug\PongContent.contentproj.CoreCompileInputs.cache

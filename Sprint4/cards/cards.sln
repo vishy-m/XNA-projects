@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cards", "cards\cards\cards.csproj", "{829980EF-3D82-4923-B2FF-79FDC84DEA9A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "cardsContent", "cards\cardsContent\cardsContent.contentproj", "{DBB12497-E91E-4804-8D8B-B0A17D2E55A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829980EF-3D82-4923-B2FF-79FDC84DEA9A}.Debug|x86.ActiveCfg = Debug|x86
+		{829980EF-3D82-4923-B2FF-79FDC84DEA9A}.Debug|x86.Build.0 = Debug|x86
+		{829980EF-3D82-4923-B2FF-79FDC84DEA9A}.Release|x86.ActiveCfg = Release|x86
+		{829980EF-3D82-4923-B2FF-79FDC84DEA9A}.Release|x86.Build.0 = Release|x86
+		{DBB12497-E91E-4804-8D8B-B0A17D2E55A0}.Debug|x86.ActiveCfg = Debug|x86
+		{DBB12497-E91E-4804-8D8B-B0A17D2E55A0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A80F3CB-7FC2-45A6-A5FA-EE5FF3059591}
+	EndGlobalSection
+EndGlobal

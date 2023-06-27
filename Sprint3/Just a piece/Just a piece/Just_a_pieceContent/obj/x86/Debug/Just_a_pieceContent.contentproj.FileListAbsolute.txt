@@ -1,0 +1,8 @@
+C:\Users\242480\Desktop\Video Game program1\Sprint3\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.AssemblyReference.cache
+C:\Users\242480\Desktop\Video Game program1\Sprint3\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\AtSchool\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\VGD1\sprint3\AtSchool\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.CoreCompileInputs.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.AssemblyReference.cache
+C:\Users\Vishy\OneDrive\Desktop\Desktop\VGD1\sprint3\Sprint3Labs\Just a piece\Just a piece\Just_a_pieceContent\obj\x86\Debug\Just_a_pieceContent.contentproj.CoreCompileInputs.cache
